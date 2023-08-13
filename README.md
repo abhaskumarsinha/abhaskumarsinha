@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhas-kumar-sinha/">LinkedIn</a> | <a href="https://huggingface.co/spaces/abhaskumarsinha">HuggingFace</a>
+  <a href="https://www.linkedin.com/in/abhas-kumar-sinha/">LinkedIn</a> | <a href="https://huggingface.co/abhaskumarsinha">HuggingFace</a>
 </p>
