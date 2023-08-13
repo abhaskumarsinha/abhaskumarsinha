@@ -44,10 +44,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  I'm not just about code—I'm passionate about the mysteries of the universe too. Very well-versed in general relativity and quantum mechanics, I'm on a quest to harness the power of quantum computers.
-</p>
-
-<p align="center">
   Thanks for dropping by! Connect with me on LinkedIn to stay in touch.
 </p>
 
