@@ -28,7 +28,7 @@ Given today, the tremendous usage of computation systems that consume a lot of p
 
 - Programming Languages: Python, C, Assembly (preferably NASM), PHP, SQL.
 - Tools and Frameworks: TensorFlow, PyTorch, Sci-kit Learn.
-- Philosophy: Shunya (Madhyamaka Buddhism), Advaita Vedanta (Ashtavakra's), Sankhya.
+- Philosophy: Shunya (Madhyamaka Buddhism), Advaita Vedanta (Ashtavakra's), Sankhya (Kapila's).
 - Field: AI (Supervised, Unsupervised Learning, Alignment, Domain Adaptation and related Areas, GPT and text based models), Physics (Quantum Mechanics, Field Theory, General Relativity), Mathematics (Number Theory, Statistics).
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhaskumarsinha&show_icons=true&theme=radical)
@@ -72,6 +72,42 @@ you see only Self. <br>
 
 <br>
 <i align='justify'>In these verses from the Ashtavakra Gita, the speaker employs metaphors to convey the Advaita Vedanta principle of non-duality. The analogy of waves, foam, and bubbles being inseparable from water illustrates the oneness of the universe with the Self (Atman/Brahman). Similarly, the comparison of creation to cloth and threads emphasizes that, upon close examination, diversity in the world dissolves into the singular essence of the Self. The verses underscore the non-dual nature of reality, urging contemplation on the unity underlying the apparent multiplicity of the universe, like a dream collapsing into a person.</i>
+
+
+
+<blockquote align='center'>
+<br>
+The world is experienced by our consciousness,<br>
+Is the world which is experienced by our consciousness something separate from the experiencing consciousness?<br>
+if it is, if you claim that the world is separate from the experiencing consciousness,<br>
+prove it!<br>
+You cannot prove it, because to prove it, you'll have to experience the world apart from consciousness.<br>
+But nothing can be experienced apart from consciousness!<br>
+<br>
+Just as the table and wood cannot be separated, the "table" is the name and form of the "wood",<br>
+Universe is the name and form of the consciousness!<br>
+
+
+</blockquote>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Swami Sarvapriyananda
+
+<br>
+<i align='justify'>These verses lead to the formulation of Advaita Vedanta philosophy, where the whole universe is nothing, but an appearance of consciousness. Self (or consciousness) is the real cause of the universe, as in the previous vereses in Ashtavakra Gita tell about.</i>
+
+
+<blockquote align='center'>
+<br>
+1. (1)<br>
+Neither from itself nor from another<br>
+Nor from both,<br>
+Nor without a cause<br>
+Is anything ever generated anywhere.<br>
+
+</blockquote>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- MoolmadhyamakaKarika. Nagajurna.(1)I.
+
+<br>
+<i align='justify'>On the creation of the universe - either the universe manifested (or came into existence) by itself, or from a God, or both, or a cause. If the universe that is unexisting initially can come into existence from something or itself, or both, or with a cause, then how there was non-existence before it? (as either itself, God, both, or cause must have existed). If something did exist before it, then how come it is a manifestation of existence from non-existence? This proves that non-existence is itself self-contradictory for the universe to have created, hence there is no harm in assuming universe (or existence) eternally existed.</i>
 
 
 
