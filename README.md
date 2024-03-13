@@ -71,7 +71,7 @@ you see only Self. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ashtavakra Gita
 
 <br>
-<i align='justify'>In these verses from the Ashtavakra Gita, the speaker employs metaphors to convey the Advaita Vedanta principle of non-duality. The analogy of waves, foam, and bubbles being inseparable from water illustrates the oneness of the universe with the Self (Atman/Brahman). Similarly, the comparison of creation to cloth and threads emphasizes that, upon close examination, diversity in the world dissolves into the singular essence of the Self. The verses underscore the non-dual nature of reality, urging contemplation on the unity underlying the apparent multiplicity of the universe, like a dream collapsing into a person.</i>
+<i align='justify'>In these verses from the Ashtavakra Gita, the speaker employs metaphors to convey the Advaita Vedanta principle of non-duality. The analogy of waves, foam, and bubbles being inseparable from water illustrates the oneness of the universe with the Self (Atman/Brahman). Similarly, the comparison of creation to cloth and threads emphasizes that, upon close examination, diversity in the world dissolves into the singular essence of the Self. The verses underscore the non-dual nature of reality, urging contemplation on the unity underlying the apparent multiplicity of the universe, like a dream collapsing into a person.</i><br>
 
 
 
@@ -92,7 +92,7 @@ Universe is the name and form of the consciousness!<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Swami Sarvapriyananda
 
 <br>
-<i align='justify'>These verses lead to the formulation of Advaita Vedanta philosophy, where the whole universe is nothing, but an appearance of consciousness. Self (or consciousness) is the real cause of the universe, as in the previous vereses in Ashtavakra Gita tell about.</i>
+<i align='justify'>These verses lead to the formulation of Advaita Vedanta philosophy, where the whole universe is nothing, but an appearance of consciousness. Self (or consciousness) is the real cause of the universe, as in the previous vereses in Ashtavakra Gita tell about.</i><br>
 
 
 <blockquote align='center'>
